@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import hashlib
 from pathlib import Path 
 load_dotenv()
-
+import json
 
 from google import genai
 
@@ -44,7 +44,5 @@ def cached_ask(model_name, prompt):
     return answer
 
 
-print(cached_ask("gemini-3.6-flash","1+1?"))
-print(cached_ask("gemini-3.6-flash","when was Youtube created?"))
-print(cached_ask("gemini-3.6-flash","whats the max age of cats"))
-print(cached_ask("gemini-3.6-flash","whats the max age of dogs"))
+
+    

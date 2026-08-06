@@ -1,0 +1,12 @@
+[
+  {"id": 1, "text": "I want to pursue my studies in a European country. Which country is best and why?", "category": "advice"},
+  {"id": 2, "text": "Explain gradient descent to a ten-year-old.", "category": "explanation"},
+  {"id": 3, "text": "My friend keeps cancelling plans last minute. How should I bring it up?", "category": "advice"},
+  {"id": 4, "text": "Explain why the sky is blue to a ten-year-old.", "category": "explanation"},
+  {"id": 5, "text": "What are the main arguments for and against a four-day work week?", "category": "summary"},
+  {"id": 6, "text": "I have a job offer with better pay but worse hours. How should I think about it?", "category": "advice"},
+  {"id": 7, "text": "Explain what inflation is to someone who has never studied economics.", "category": "explanation"},
+  {"id": 8, "text": "Is it better to learn one programming language deeply or several broadly?", "category": "reasoning"},
+  {"id": 9, "text": "Summarize the case for and against remote work for a new graduate.", "category": "summary"},
+  {"id": 10, "text": "My teammate isn't doing their share on a group project. What should I do?", "category": "advice"}
+]
